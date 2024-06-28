@@ -39,27 +39,7 @@ Os termos estão sujeitos às cláusulas conforme o parágrafo de cada artigo ap
 8 Por motivos de segurança, averificao pode restringir seu acesso para determinadas funcionalidades, deixando disponível apenas funções que não sejam prejudiciais aos Serviços da verificao  e mantendo a segurança de todos os clientes e usuários.
 
 9 Seus direitos ao utilizar os Serviços da verificao
-10 Você tem o direito de utilizar os serviços da verificao independente do plano contratado (ou não), desde que não viole nenhuma cláusula deste termo.
 
-11 A Política de Uso está condicionado ao utilizar os Serviços da verificao
-
-12 Política de Serviço e Privacidade
-13 Você tem a obrigação e concorda em preservar os arquivos, direitos legais e demais afins de sua aplicação. Você poderá incluir dependentes que serão responsáveis em moderar sua aplicação, porém, deve ter em mente tais permissões que serão adicionadas aos seus moderadores. A verificao  não se responsabiliza pelas permissões que nas quais você atribuiu para os seus moderadores.
 
 14 respeitar termos do discord https://discord.com/terms/
 
-15 Política de reembolso e informações complementares
-16 Todas as compras na verificao  são realizadas por sua livre e espontânea vontade. Você tem total controle sobre suas compras e decide o que comprar e quando comprar.
-
-17 O reembolso é aplicável apenas para transações realizadas na verificao através do site oficial, conforme os planos disponíveis. A verificao não se responsabiliza por transações feitas a terceiros, exceto com sua breve autorização.
-
-18  A abertura de uma disputa diretamente na empresa processadora do pagamento (exemplo: Mercado Pago, Stripe, etc.) ocasionará no cancelamento imediato do seu plano e na retirada do direito de reembolso.
-
-19  O cancelamento do seu plano pode ser feito a qualquer momento, sem custos adicionais. Para solicitar o cancelamento, basta entrar em contato com nossa equipe de suporte através dos canais de atendimento. Após o cancelamento, você não terá mais acesso aos recursos da plataforma e não terá direito ao reembolso do valor pago. É importante ressaltar também, que, após o período de 7 (sete) dias corridos a partir da data do primeiro pagamento, o plano não poderá ser reembolsado.
-
-20  Caso você tenha solicitado o cancelamento do plano dentro do período de 7 (sete) dias corridos a partir da data do primeiro pagamento, você terá direito ao reembolso integral do valor pago. O reembolso será processado dentro de 5 (cinco) dias úteis após a confirmação do cancelamento mediante a apresentação da nota fiscal de serviço recebida por e-mail no momento da compra do plano, comprovação de identidade e a confirmação de que não houve quebra de cláusula deste termo ou das políticas de uso.
-
-
-21  A verificao  se reserva o direito de se comunicar através do e-mail support@squarecloud.app.
-
-22   Em conformidade com a política de fair use, parceiros autorizados podem usar o nome e o logotipo da verificao  para divulgar a parceria, desde que tal uso esteja de acordo com as diretrizes fornecidas pela verificao  e tenha recebido aprovação prévia por escrito.
